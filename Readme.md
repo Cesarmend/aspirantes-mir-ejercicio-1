@@ -7,3 +7,4 @@ Command list:
 - git init 
 - git commit 
 - cd 
+- git push
